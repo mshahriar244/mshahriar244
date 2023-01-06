@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mshahriar244
+- 👋 Hi, I’m MD SHAHRIAR MAHMUD
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m a Front End Web Developer.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mail to mshahriar244@gmail.com
+- 📫 How to reach me, mail to mshahriar244@gmail.com
 - 
 
 <!---
