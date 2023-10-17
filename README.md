@@ -1,6 +1,5 @@
 - 👋 Hi, I’m MD SHAHRIAR MAHMUD
-- 👀 I’m interested in Programming
-- 🌱 I’m a Front End Web Developer.
+- 👀 I’m interested in Python Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, mail to mshahriar244@gmail.com
 - 
