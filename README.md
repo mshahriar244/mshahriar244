@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MD SHAHRIAR MAHMUD
 - 👀 I’m interested in Python Programming and Material Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with such a person who is interested in my area.
 - 📫 How to reach me, mail to mdshahriarmahmud12345@gmail.com
 
 
